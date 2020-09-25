@@ -1,11 +1,9 @@
-## Dropdown Menu 
+## Facebook Dropdown Menu
 
-Animated multi-level dropdown menu inspired by Facebook's March 2020 web UI. 
-
-Watch the full [React dropdown tutorial](https://youtu.be/IF6k0uZuypA) on YouTube. 
+Animated multi-level dropdown menu inspired by Facebook's web UI.
 
 ```
-git clone <this-repo>
+git clone https://github.com/febriliankr/facebook-dropdown-nav.git
 
 npm i
 npm start
